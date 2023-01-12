@@ -648,7 +648,7 @@ header{
     justify-content: center;    
     background-color: rgba(255, 255, 255, 0.795);
     opacity: 0;
-    transition: .5s;
+    transition: .4s;
 }
 .team .card:hover .icon{
     opacity: 1;
