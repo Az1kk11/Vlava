@@ -69,8 +69,8 @@ document.querySelector(".portfolio-page .black-scren .xmark").addEventListener("
 })
 
 
-let btnFilter = document.querySelectorAll(".portfolio-page ul li")
-let itemBox = document.querySelectorAll(".portfolio-page .cards .card")
+// let btnFilter = document.querySelectorAll(".portfolio-page ul li")
+// let itemBox = document.querySelectorAll(".portfolio-page .cards .card")
 
 function imgfilter (){  
   let btnFilter = document.querySelectorAll(".portfolio-page ul li")
